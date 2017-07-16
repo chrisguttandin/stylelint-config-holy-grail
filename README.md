@@ -1,5 +1,7 @@
 # stylelint-config-holy-grail
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chrisguttandin/stylelint-config-holy-grail.svg)](https://greenkeeper.io/)
+
 **This is just my personal stylelint configuration.**
 
 [![tests](https://img.shields.io/travis/chrisguttandin/stylelint-config-holy-grail/master.svg?style=flat-square)](https://travis-ci.org/chrisguttandin/stylelint-config-holy-grail)
