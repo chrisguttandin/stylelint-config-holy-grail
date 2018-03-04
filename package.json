@@ -3,6 +3,11 @@
   "bugs": {
     "url": "https://github.com/chrisguttandin/stylelint-config-holy-grail/issues"
   },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
   "description": "This is just my personal stylelint configuration.",
   "devDependencies": {
     "@commitlint/cli": "^6.1.3",
