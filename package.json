@@ -28,7 +28,7 @@
     "stylelint": "^9.2.0"
   },
   "engines": {
-    "node": ">=6.11.2"
+    "node": ">=8.11.1"
   },
   "files": [
     "src/"
