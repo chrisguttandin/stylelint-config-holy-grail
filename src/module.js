@@ -16,6 +16,7 @@ module.exports = {
         'declaration-no-important': true,
         'indentation': 4,
         'length-zero-no-unit': true,
+        'linebreaks': 'unix',
         'max-empty-lines': 1,
         'no-eol-whitespace': true,
         'number-leading-zero': 'always',
