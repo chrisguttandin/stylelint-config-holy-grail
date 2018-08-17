@@ -1,4 +1,7 @@
 module.exports = {
+    plugins: [
+        'stylelint-order'
+    ],
     rules: {
         'block-closing-brace-newline-after': 'always',
         'block-closing-brace-newline-before': 'always',
@@ -20,6 +23,10 @@ module.exports = {
         'max-empty-lines': 1,
         'no-eol-whitespace': true,
         'number-leading-zero': 'always',
+        'order/order': [
+            'custom-properties',
+            'declarations'
+        ],
         'selector-list-comma-newline-after': 'always',
         'selector-list-comma-space-before': 'never',
         'string-quotes': 'single'
