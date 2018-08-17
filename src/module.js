@@ -27,6 +27,7 @@ module.exports = {
             'custom-properties',
             'declarations'
         ],
+        'order/properties-alphabetical-order': true,
         'selector-list-comma-newline-after': 'always',
         'selector-list-comma-space-before': 'never',
         'string-quotes': 'single'
