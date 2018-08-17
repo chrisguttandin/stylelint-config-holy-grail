@@ -8,6 +8,9 @@
       "path": "cz-conventional-changelog"
     }
   },
+  "dependencies": {
+    "stylelint-order": "^1.0.0"
+  },
   "description": "This is just my personal stylelint configuration.",
   "devDependencies": {
     "@commitlint/cli": "^7.0.0",
