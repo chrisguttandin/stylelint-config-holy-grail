@@ -36,6 +36,11 @@
     "src/"
   ],
   "homepage": "https://github.com/chrisguttandin/stylelint-config-holy-grail",
+  "husky": {
+    "hooks": {
+      "pre-commit": "grunt lint"
+    }
+  },
   "keywords": [
     "stylelint",
     "stylelint-config"
@@ -48,7 +53,6 @@
     "url": "https://github.com/chrisguttandin/stylelint-config-holy-grail.git"
   },
   "scripts": {
-    "precommit": "grunt lint",
     "test": "grunt lint && grunt test"
   },
   "version": "3.0.0"
