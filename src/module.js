@@ -18,6 +18,7 @@ module.exports = {
         'declaration-colon-space-before': 'never',
         'declaration-no-important': true,
         'function-calc-no-invalid': true,
+        'function-calc-no-unspaced-operator': true,
         'indentation': 4,
         'length-zero-no-unit': true,
         'linebreaks': 'unix',
