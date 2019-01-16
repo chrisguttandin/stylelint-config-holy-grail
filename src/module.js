@@ -19,6 +19,7 @@ module.exports = {
         'declaration-no-important': true,
         'function-calc-no-invalid': true,
         'function-calc-no-unspaced-operator': true,
+        'function-linear-gradient-no-nonstandard-direction': true,
         'indentation': 4,
         'length-zero-no-unit': true,
         'linebreaks': 'unix',
