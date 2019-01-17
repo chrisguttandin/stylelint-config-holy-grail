@@ -49,6 +49,9 @@
   "license": "MIT",
   "main": "src/module.js",
   "name": "stylelint-config-holy-grail",
+  "peerDependencies": {
+    "stylelint": "^9.10.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/chrisguttandin/stylelint-config-holy-grail.git"
