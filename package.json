@@ -9,7 +9,8 @@
     }
   },
   "dependencies": {
-    "stylelint-order": "^3.0.0"
+    "stylelint-order": "^3.0.0",
+    "snyk": "^1.192.3"
   },
   "description": "This is just my personal stylelint configuration.",
   "devDependencies": {
@@ -57,7 +58,10 @@
     "url": "https://github.com/chrisguttandin/stylelint-config-holy-grail.git"
   },
   "scripts": {
-    "test": "grunt lint && grunt test"
+    "test": "grunt lint && grunt test",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
-  "version": "4.0.5"
+  "version": "4.0.5",
+  "snyk": true
 }
