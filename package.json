@@ -9,7 +9,7 @@
     }
   },
   "dependencies": {
-    "stylelint-order": "^3.0.1"
+    "stylelint-order": "^3.1.0"
   },
   "description": "This is just my personal stylelint configuration.",
   "devDependencies": {
