@@ -26,7 +26,7 @@
     "husky": "^3.0.5",
     "load-grunt-config": "^3.0.1",
     "mocha": "^6.2.0",
-    "stylelint": "^10.1.0"
+    "stylelint": "^11.0.0"
   },
   "engines": {
     "node": ">=10.15.3"
