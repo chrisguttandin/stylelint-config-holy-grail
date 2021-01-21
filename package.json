@@ -28,7 +28,7 @@
         "mocha": "^8.2.1",
         "prettier": "^2.2.1",
         "pretty-quick": "^3.1.0",
-        "stylelint": "^13.8.0"
+        "stylelint": "^13.9.0"
     },
     "engines": {
         "node": ">=10.15.3"
