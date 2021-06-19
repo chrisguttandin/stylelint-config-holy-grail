@@ -37,12 +37,6 @@
         "src/"
     ],
     "homepage": "https://github.com/chrisguttandin/stylelint-config-holy-grail",
-    "husky": {
-        "hooks": {
-            "commit-msg": "commitlint --edit --extends @commitlint/config-angular",
-            "pre-commit": "pretty-quick --config config/prettier/config.json --staged && grunt lint"
-        }
-    },
     "keywords": [
         "stylelint",
         "stylelint-config"
@@ -58,6 +52,7 @@
         "url": "https://github.com/chrisguttandin/stylelint-config-holy-grail.git"
     },
     "scripts": {
+        "prepare": "husky install",
         "test": "grunt lint && grunt test"
     },
     "version": "7.0.1"
