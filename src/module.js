@@ -21,6 +21,7 @@ module.exports = {
         'length-zero-no-unit': true,
         'linebreaks': 'unix',
         'max-empty-lines': 1,
+        'no-duplicate-selectors': true,
         'no-eol-whitespace': true,
         'number-leading-zero': 'always',
         'order/order': ['custom-properties', 'declarations'],
