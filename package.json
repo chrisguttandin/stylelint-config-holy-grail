@@ -11,7 +11,7 @@
     "dependencies": {
         "stylelint-order": "^5.0.0"
     },
-    "description": "This is just my personal stylelint configuration.",
+    "description": "This is my personal stylelint configuration.",
     "devDependencies": {
         "@commitlint/cli": "^17.1.2",
         "@commitlint/config-angular": "^17.1.0",
