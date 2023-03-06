@@ -16,6 +16,7 @@ module.exports = {
         'font-family-no-missing-generic-family-keyword': true,
         'function-calc-no-unspaced-operator': true,
         'function-linear-gradient-no-nonstandard-direction': true,
+        'function-no-unknown': true,
         'length-zero-no-unit': true,
         'no-duplicate-selectors': true,
         'order/order': ['custom-properties', 'declarations'],
