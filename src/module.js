@@ -13,6 +13,7 @@ module.exports = {
         'declaration-no-important': true,
         'declaration-property-value-no-unknown': true,
         'font-family-no-duplicate-names': true,
+        'font-family-no-missing-generic-family-keyword': true,
         'function-calc-no-unspaced-operator': true,
         'function-linear-gradient-no-nonstandard-direction': true,
         'length-zero-no-unit': true,
