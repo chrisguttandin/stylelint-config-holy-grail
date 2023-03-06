@@ -9,7 +9,6 @@ module.exports = {
         'declaration-property-value-no-unknown': true,
         'function-calc-no-unspaced-operator': true,
         'function-linear-gradient-no-nonstandard-direction': true,
-        'indentation': 4,
         'length-zero-no-unit': true,
         'linebreaks': 'unix',
         'max-empty-lines': 1,
