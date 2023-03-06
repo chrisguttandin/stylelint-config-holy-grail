@@ -40,6 +40,7 @@ module.exports = {
                 ignore: ['custom-elements']
             }
         ],
-        'string-no-newline': true
+        'string-no-newline': true,
+        'unit-no-unknown': true
     }
 };
