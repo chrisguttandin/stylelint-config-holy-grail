@@ -2,7 +2,6 @@ module.exports = {
     plugins: ['stylelint-order'],
     rules: {
         'block-no-empty': true,
-        'block-opening-brace-newline-after': 'always',
         'block-opening-brace-newline-before': 'never-single-line',
         'color-no-invalid-hex': true,
         'declaration-block-no-duplicate-properties': true,
