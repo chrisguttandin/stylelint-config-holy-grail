@@ -31,6 +31,7 @@ module.exports = {
         'no-irregular-whitespace': true,
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true,
-        'property-no-unknown': true
+        'property-no-unknown': true,
+        'selector-pseudo-class-no-unknown': true
     }
 };
