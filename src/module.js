@@ -12,7 +12,6 @@ module.exports = {
         'declaration-block-semicolon-newline-after': 'always',
         'declaration-block-semicolon-space-before': 'never',
         'declaration-block-trailing-semicolon': 'always',
-        'declaration-colon-space-after': 'always',
         'declaration-colon-space-before': 'never',
         'declaration-no-important': true,
         'declaration-property-value-no-unknown': true,
