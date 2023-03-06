@@ -17,7 +17,6 @@ module.exports = {
         'no-eol-whitespace': true,
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true,
-        'selector-descendant-combinator-no-non-space': true,
         'selector-list-comma-newline-after': 'always',
         'selector-list-comma-space-before': 'never'
     }
