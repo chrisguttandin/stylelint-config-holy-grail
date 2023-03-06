@@ -2,6 +2,7 @@ module.exports = {
     plugins: ['stylelint-order'],
     rules: {
         'annotation-no-unknown': true,
+        'at-rule-no-unknown': true,
         'block-no-empty': true,
         'color-no-invalid-hex': true,
         'declaration-block-no-duplicate-properties': true,
