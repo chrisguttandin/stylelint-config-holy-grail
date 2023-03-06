@@ -16,7 +16,6 @@ module.exports = {
         'no-duplicate-selectors': true,
         'no-eol-whitespace': true,
         'order/order': ['custom-properties', 'declarations'],
-        'order/properties-alphabetical-order': true,
-        'selector-list-comma-space-before': 'never'
+        'order/properties-alphabetical-order': true
     }
 };
