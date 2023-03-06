@@ -10,7 +10,6 @@ module.exports = {
         'function-calc-no-unspaced-operator': true,
         'function-linear-gradient-no-nonstandard-direction': true,
         'length-zero-no-unit': true,
-        'linebreaks': 'unix',
         'max-empty-lines': 1,
         'no-duplicate-selectors': true,
         'no-eol-whitespace': true,
