@@ -33,6 +33,12 @@ module.exports = {
         'order/properties-alphabetical-order': true,
         'property-no-unknown': true,
         'selector-pseudo-class-no-unknown': true,
-        'selector-pseudo-element-no-unknown': true
+        'selector-pseudo-element-no-unknown': true,
+        'selector-type-no-unknown': [
+            true,
+            {
+                ignore: ['custom-elements']
+            }
+        ]
     }
 };
