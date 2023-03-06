@@ -23,6 +23,7 @@ module.exports = {
         'media-feature-name-no-unknown': true,
         'named-grid-areas-no-invalid': true,
         'no-descending-specificity': true,
+        'no-duplicate-at-import-rules': true,
         'no-duplicate-selectors': true,
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true
