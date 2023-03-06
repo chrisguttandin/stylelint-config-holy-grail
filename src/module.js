@@ -11,7 +11,6 @@ module.exports = {
         'function-linear-gradient-no-nonstandard-direction': true,
         'length-zero-no-unit': true,
         'no-duplicate-selectors': true,
-        'no-eol-whitespace': true,
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true
     }
