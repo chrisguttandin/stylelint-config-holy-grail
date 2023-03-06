@@ -28,7 +28,6 @@ module.exports = {
         'order/properties-alphabetical-order': true,
         'selector-descendant-combinator-no-non-space': true,
         'selector-list-comma-newline-after': 'always',
-        'selector-list-comma-space-before': 'never',
-        'string-quotes': 'single'
+        'selector-list-comma-space-before': 'never'
     }
 };
