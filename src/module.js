@@ -21,6 +21,7 @@ module.exports = {
         'keyframe-declaration-no-important': true,
         'length-zero-no-unit': true,
         'media-feature-name-no-unknown': true,
+        'named-grid-areas-no-invalid': true,
         'no-duplicate-selectors': true,
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true
