@@ -9,7 +9,6 @@ module.exports = {
         'color-no-invalid-hex': true,
         'declaration-block-no-duplicate-properties': true,
         'declaration-block-no-shorthand-property-overrides': true,
-        'declaration-block-trailing-semicolon': 'always',
         'declaration-no-important': true,
         'declaration-property-value-no-unknown': true,
         'function-calc-no-unspaced-operator': true,
