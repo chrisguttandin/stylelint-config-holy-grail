@@ -1,7 +1,6 @@
 module.exports = {
     plugins: ['stylelint-order'],
     rules: {
-        'block-closing-brace-newline-after': 'always',
         'block-closing-brace-newline-before': 'always',
         'block-no-empty': true,
         'block-opening-brace-newline-after': 'always',
