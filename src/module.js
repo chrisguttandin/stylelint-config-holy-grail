@@ -6,7 +6,9 @@ module.exports = {
             plugins: ['stylelint-scss'],
             rules: {
                 'at-rule-no-unknown': null,
-                'scss/at-rule-no-unknown': true
+                'function-no-unknown': null,
+                'scss/at-rule-no-unknown': true,
+                'scss/no-global-function-names': true
             }
         }
     ],
