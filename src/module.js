@@ -20,6 +20,7 @@ module.exports = {
         'keyframe-block-no-duplicate-selectors': true,
         'keyframe-declaration-no-important': true,
         'length-zero-no-unit': true,
+        'media-feature-name-no-unknown': true,
         'no-duplicate-selectors': true,
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true
