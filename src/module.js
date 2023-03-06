@@ -28,6 +28,7 @@ module.exports = {
         'no-empty-source': true,
         'no-invalid-double-slash-comments': true,
         'no-invalid-position-at-import-rule': true,
+        'no-irregular-whitespace': true,
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true
     }
