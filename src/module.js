@@ -15,6 +15,7 @@ module.exports = {
         'declaration-colon-space-after': 'always',
         'declaration-colon-space-before': 'never',
         'declaration-no-important': true,
+        'declaration-property-value-no-unknown': true,
         'function-calc-no-unspaced-operator': true,
         'function-linear-gradient-no-nonstandard-direction': true,
         'indentation': 4,
