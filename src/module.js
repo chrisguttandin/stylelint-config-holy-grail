@@ -39,6 +39,7 @@ module.exports = {
             {
                 ignore: ['custom-elements']
             }
-        ]
+        ],
+        'string-no-newline': true
     }
 };
