@@ -32,6 +32,7 @@ module.exports = {
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true,
         'property-no-unknown': true,
-        'selector-pseudo-class-no-unknown': true
+        'selector-pseudo-class-no-unknown': true,
+        'selector-pseudo-element-no-unknown': true
     }
 };
