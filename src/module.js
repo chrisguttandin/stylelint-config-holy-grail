@@ -17,6 +17,7 @@ module.exports = {
         'function-calc-no-unspaced-operator': true,
         'function-linear-gradient-no-nonstandard-direction': true,
         'function-no-unknown': true,
+        'keyframe-block-no-duplicate-selectors': true,
         'length-zero-no-unit': true,
         'no-duplicate-selectors': true,
         'order/order': ['custom-properties', 'declarations'],
