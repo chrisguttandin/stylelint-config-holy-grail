@@ -30,6 +30,7 @@ module.exports = {
         'no-invalid-position-at-import-rule': true,
         'no-irregular-whitespace': true,
         'order/order': ['custom-properties', 'declarations'],
-        'order/properties-alphabetical-order': true
+        'order/properties-alphabetical-order': true,
+        'property-no-unknown': true
     }
 };
