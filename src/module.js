@@ -5,6 +5,7 @@ module.exports = {
         'at-rule-no-unknown': true,
         'block-no-empty': true,
         'color-no-invalid-hex': true,
+        'comment-no-empty': true,
         'declaration-block-no-duplicate-properties': true,
         'declaration-block-no-shorthand-property-overrides': true,
         'declaration-no-important': true,
