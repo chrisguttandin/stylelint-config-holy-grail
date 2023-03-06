@@ -8,6 +8,7 @@ module.exports = {
                 'at-rule-no-unknown': null,
                 'function-no-unknown': null,
                 'scss/at-rule-no-unknown': true,
+                'scss/no-duplicate-mixins': true,
                 'scss/no-global-function-names': true
             }
         }
