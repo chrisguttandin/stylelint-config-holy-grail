@@ -12,6 +12,7 @@ module.exports = {
         'declaration-block-no-shorthand-property-overrides': true,
         'declaration-no-important': true,
         'declaration-property-value-no-unknown': true,
+        'font-family-no-duplicate-names': true,
         'function-calc-no-unspaced-operator': true,
         'function-linear-gradient-no-nonstandard-direction': true,
         'length-zero-no-unit': true,
