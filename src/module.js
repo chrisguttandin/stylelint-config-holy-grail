@@ -26,6 +26,7 @@ module.exports = {
         'no-duplicate-at-import-rules': true,
         'no-duplicate-selectors': true,
         'no-empty-source': true,
+        'no-invalid-double-slash-comments': true,
         'order/order': ['custom-properties', 'declarations'],
         'order/properties-alphabetical-order': true
     }
