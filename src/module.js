@@ -1,4 +1,15 @@
 module.exports = {
+    overrides: [
+        {
+            customSyntax: 'postcss-scss',
+            files: ['*.scss', '**/*.scss'],
+            plugins: ['stylelint-scss'],
+            rules: {
+                'at-rule-no-unknown': null,
+                'scss/at-rule-no-unknown': true
+            }
+        }
+    ],
     plugins: ['stylelint-order'],
     rules: {
         'annotation-no-unknown': true,
