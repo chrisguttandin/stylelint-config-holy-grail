@@ -11,7 +11,7 @@
     "dependencies": {
         "postcss": "^8.4.21",
         "postcss-scss": "^4.0.6",
-        "stylelint-order": "^6.0.2",
+        "stylelint-order": "^6.0.3",
         "stylelint-scss": "^4.4.0"
     },
     "description": "This is my personal stylelint configuration.",
