@@ -9,6 +9,7 @@ module.exports = {
                 'declaration-property-value-no-unknown': null,
                 'function-no-unknown': null,
                 'scss/at-rule-no-unknown': true,
+                'scss/function-no-unknown': true,
                 'scss/no-duplicate-dollar-variables': true,
                 'scss/no-duplicate-mixins': true,
                 'scss/no-global-function-names': true
