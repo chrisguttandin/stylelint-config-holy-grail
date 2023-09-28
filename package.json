@@ -9,7 +9,7 @@
         }
     },
     "dependencies": {
-        "postcss": "^8.4.30",
+        "postcss": "^8.4.31",
         "postcss-scss": "^4.0.8",
         "stylelint-order": "^6.0.3",
         "stylelint-scss": "^5.2.1"
