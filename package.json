@@ -34,7 +34,7 @@
         "stylelint": "^15.11.0"
     },
     "engines": {
-        "node": ">=16.1.0"
+        "node": ">=18.2.0"
     },
     "files": [
         "src/"
