@@ -31,7 +31,7 @@
         "load-grunt-config": "^4.0.1",
         "mocha": "^10.2.0",
         "prettier": "^3.2.4",
-        "stylelint": "^15.11.0"
+        "stylelint": "^16.2.0"
     },
     "engines": {
         "node": ">=18.2.0"
@@ -48,7 +48,7 @@
     "main": "src/module.js",
     "name": "stylelint-config-holy-grail",
     "peerDependencies": {
-        "stylelint": "^15.0.0"
+        "stylelint": "^16.2.0"
     },
     "repository": {
         "type": "git",
