@@ -16,7 +16,7 @@
     },
     "description": "This is my personal stylelint configuration.",
     "devDependencies": {
-        "@commitlint/cli": "^19.4.1",
+        "@commitlint/cli": "^19.5.0",
         "@commitlint/config-angular": "^19.4.1",
         "chai": "^5.1.1",
         "commitizen": "^4.3.0",
