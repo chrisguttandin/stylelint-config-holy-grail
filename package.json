@@ -12,7 +12,7 @@
         "postcss": "^8.4.49",
         "postcss-scss": "^4.0.9",
         "stylelint-order": "^6.0.4",
-        "stylelint-scss": "^6.8.1"
+        "stylelint-scss": "^6.9.0"
     },
     "description": "This is my personal stylelint configuration.",
     "devDependencies": {
