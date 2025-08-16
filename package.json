@@ -27,7 +27,7 @@
         "lint-staged": "^16.1.5",
         "mocha": "^11.7.1",
         "prettier": "^3.6.2",
-        "stylelint": "^16.22.0"
+        "stylelint": "^16.23.1"
     },
     "engines": {
         "node": ">=18.2.0"
