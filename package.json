@@ -27,7 +27,7 @@
         "lint-staged": "^17.0.4",
         "mocha": "^11.7.5",
         "prettier": "^3.8.3",
-        "stylelint": "^16.26.1"
+        "stylelint": "^17.11.0"
     },
     "engines": {
         "node": ">=18.2.0"
@@ -44,7 +44,7 @@
     "main": "src/module.js",
     "name": "stylelint-config-holy-grail",
     "peerDependencies": {
-        "stylelint": "^16.2.0"
+        "stylelint": "^17.11.0"
     },
     "repository": {
         "type": "git",
