@@ -44,6 +44,7 @@
     "license": "MIT",
     "main": "src/module.js",
     "name": "stylelint-config-holy-grail",
+    "packageManager": "npm@12",
     "peerDependencies": {
         "stylelint": "^17.11.0"
     },
